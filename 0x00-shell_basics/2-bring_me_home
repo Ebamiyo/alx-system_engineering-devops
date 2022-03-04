@@ -1,2 +1,2 @@
 #!/bin/bash
-eval echo "~$different_user"
+cd /usr
